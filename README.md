@@ -1,4 +1,15 @@
 # analyze_tennis
+
+スコアシートイメージ図を貼ります。
+手書きです。
+
+![1枚目](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cc05170-24a9-4ea3-b77f-e860e0dc6973/IMG_3412.heic)
+
+![2枚目](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/670a634f-7946-4591-94b7-fdad8a16db3d/IMG_3413.heic)
+
+![球種など入力項目一覧](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f74e8eeb-bf88-4d4d-8b12-842a014086e5/IMG_3415.heic)
+
+
 ### **3行で**
 自分の技術の何が強みで何が弱みか分からない人に
 データと傾向を示して客観的に自分の能力を判断できるようにする
